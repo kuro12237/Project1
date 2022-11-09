@@ -2,7 +2,7 @@
 
 int main() 
 {
-	printf("a");
+	printf("insect_ant");
 
 	return 0;
 
